@@ -30,13 +30,13 @@ pandas = "*"
 plotly = "*"
 pre-commit = "*"
 pyarrow = "*"
-s3fs = "==0.3.4"
 scipy = "*"
 scikit-image = "*"
 scikit-learn = "*"
 seaborn = "*"
 sqlalchemy = "*"
 statsmodels = "*"
+torch = "*"
 
 [dev-packages]
 
